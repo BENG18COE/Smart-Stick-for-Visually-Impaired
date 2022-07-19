@@ -1,0 +1,3 @@
+/location/
+
+above command it will  retrieve data from gsm module and send to mobile phone
